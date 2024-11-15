@@ -1,1 +1,1 @@
-# Ceramicas-Power
+# Ceramicas-Power: Se trata de un proyecto de venta de cerámicas, me falta bastante por terminar esto es una fase inicial de lo que va a ser a futuro aplique conceptos visuales muy básicos y hay que corregir cosas.
